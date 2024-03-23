@@ -11,7 +11,7 @@ To write a program to predict the profit of a city using the linear regression m
 1. start the program
 2. Import numpy as np
 3. Plot the points
-4. IntiLiaze thhe program
+4. Initialize the program
 5. End the program
 
 ## Program:
